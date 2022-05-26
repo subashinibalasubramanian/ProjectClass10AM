@@ -17,4 +17,19 @@ public class ClassA {
 
 	}
 
+	private void method7() {
+		System.out.println("7");
+
+	}
+
+	private void method8() {
+		System.out.println("8");
+
+	}
+
+	private void method9() {
+		System.out.println("9");
+
+	}
+
 }
